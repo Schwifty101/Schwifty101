@@ -1,0 +1,61 @@
+# 👋 Hi, I’m Soban Ahmad (@Schwifty101)
+
+Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning innovative ideas into impactful realities. My journey in technology spans foundational programming to advanced web development and beyond.
+
+## 👀 Interests
+
+- **Full-Stack Development**: Building seamless and dynamic web applications using the MERN stack. 
+- **Artificial Intelligence & Machine Learning**: Exploring cutting-edge AI solutions and working towards a future in automation and intelligent systems.
+- **Data Structures & Algorithms**: Visualizing and solving complex problems through efficient code.
+- **Project Management**: Leading and organising tech projects with a strategic mindset.
+
+## 🌱 Currently Learning
+
+- **React Ecosystem**: Diving deeper into React design patterns, hooks, and state management.
+- **Cloud Technologies**: Exploring image storage and retrieval with Cloudinary and APIs like Picsum.
+- **Modern Web Development**: Enrolled in The Web Developer Bootcamp (Updated) covering React, Node.js, MongoDB, and secure app deployment.
+- **AI Development**: Gaining foundational knowledge from Coursera's Google AI Essentials course.
+
+## 💻 Projects & Contributions
+
+### **Pinned Projects**
+- **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  
+  A scalable admin dashboard designed for managing e-commerce platforms. Built with modern JavaScript for seamless user experience and dynamic functionality.
+
+- **[IMDB Clone Backend](https://github.com/Schwifty101/IMDB-clone-Backend)**  
+  A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
+
+- **[WeatherApp with GeminiAPI](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  
+  A weather application leveraging GeminiAPI for real-time weather updates. Optimised for accuracy and performance with an intuitive UI.
+
+- **[YelpCamp](https://github.com/Schwifty101/YelpCamp)**  
+  A campground management application featuring user authentication, review functionality, and dynamic data storage. Developed with JavaScript to streamline user interaction.
+
+## 🏆 Achievements
+
+- **Achievement: YOLO**  
+  Recognised for innovation and impact in software development.  
+- **Achievement: Pull Shark**  
+  Commended for active collaboration and contribution to open-source projects.  
+- **GitHub Pro Highlights**  
+  Leveraging professional tools and resources to elevate project outcomes.
+
+## 💞️ Collaboration Goals
+
+I’m eager to collaborate on projects that:
+
+- Push the boundaries of **AI engineering** and **automation**.
+- Offer opportunities to apply and enhance **full-stack development** skills.
+- Promote modern **learning solutions** for tech enthusiasts.
+- Foster **innovative startup ideas** like my software house concept, *BlueGile*.
+
+## 📫 How to Reach Me
+
+- **Email**: [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)
+- **LinkedIn**: [Soban Ahmad](https://www.linkedin.com/in/soban-ahmad)
+- **GitHub**: [@Schwifty101](https://github.com/Schwifty101)
+- **Location**: Pakistan
+
+---
+
+🌟 "Passionate about crafting unforgettable digital experiences and shaping the future of technology."
