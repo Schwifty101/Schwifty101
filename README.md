@@ -11,10 +11,11 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 
 ## 🌱 Currently Learning
 
-- **React Ecosystem**: Diving deeper into React design patterns, hooks, and state management.
-- **Cloud Technologies**: Exploring image storage and retrieval with Cloudinary and APIs like Picsum.
-- **Modern Web Development**: Enrolled in The Web Developer Bootcamp (Updated) covering React, Node.js, MongoDB, and secure app deployment.
-- **AI Development**: Gaining foundational knowledge from Coursera's Google AI Essentials course.
+- **Advanced React Development**: Building scalable applications using advanced state management tools like Redux and Context API, while optimising performance with React Server Components.  
+- **Backend Optimisation**: Enhancing backend systems for efficiency using Node.js, Express, and advanced database techniques with MongoDB and PostgreSQL.  
+- **AI and Machine Learning**: Exploring TensorFlow and PyTorch for creating innovative automation and intelligent systems solutions.  
+- **Cloud and DevOps**: Implementing CI/CD pipelines, Docker containerisation, and deploying applications on AWS and Vercel for streamlined workflows.  
+
 
 ## 💻 Projects & Contributions
 
