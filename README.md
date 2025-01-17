@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Soban Ahmad (@Schwifty101)
 
-Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning innovative ideas into impactful realities. My journey in technology spans foundational programming to advanced web development and beyond.
+Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning into innovative ideas. I'm into impactful realities. My journey in technology spans foundational technology and has taken me from development and beyond.
 
 ## 👀 Interests
 
@@ -12,8 +12,8 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 ## 🌱 Currently Learning
 
 - **Advanced React Development**: Building scalable applications using advanced state management tools like Redux and Context API, while optimising performance with React Server Components.  
-- **Backend Optimisation**: Enhancing backend systems for efficiency using Node.js, Express, and advanced database techniques with MongoDB and PostgreSQL.  
-- **AI and Machine Learning**: Exploring TensorFlow and PyTorch for creating innovative automation and intelligent systems solutions.  
+- **Backend Optimisation**: Enhancing bacBackend Optimisation using Node.js, Express, and advanced database techniques with MongoDB and PostgreSQL.  
+-I and Machine Learning*: ExploreTensorFlow and PyTorch to create innovative automation and intelligent systems solutions.  
 - **Cloud and DevOps**: Implementing CI/CD pipelines, Docker containerisation, and deploying applications on AWS and Vercel for streamlined workflows.  
 
 
@@ -53,7 +53,7 @@ I’m eager to collaborate on projects that:
 ## 📫 How to Reach Me
 
 - **Email**: [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)
-- **LinkedIn**: [Soban Ahmad](https://www.linkedin.com/in/soban-ahmad)
+- **LinkedIn**: [Soban Ahmad]([https://www.linkedin.com/in/soban-ahmad](https://www.linkedin.com/in/soban-ahmad-malik-b9b029200/))
 - **GitHub**: [@Schwifty101](https://github.com/Schwifty101)
 - **Location**: Pakistan
 
