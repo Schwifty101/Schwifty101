@@ -53,9 +53,8 @@ I’m eager to collaborate on projects that:
 ## 📫 How to Reach Me
 
 - **Email**: [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)
-- **LinkedIn**: [Soban Ahmad]([https://www.linkedin.com/in/soban-ahmad](https://www.linkedin.com/in/soban-ahmad-malik-b9b029200/))
+- **LinkedIn**: [Soban Ahmad](www.linkedin.com/in/soban-ahmad-malik)
 - **GitHub**: [@Schwifty101](https://github.com/Schwifty101)
-- **Location**: Pakistan
 
 ---
 
