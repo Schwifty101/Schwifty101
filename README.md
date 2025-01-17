@@ -53,7 +53,7 @@ I’m eager to collaborate on projects that:
 ## 📫 How to Reach Me
 
 - **Email**: [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)
-- **LinkedIn**: [Soban Ahmad](www.linkedin.com/in/soban-ahmad-malik)
+- **LinkedIn**: [Soban Ahmad](https://www.linkedin.com/in/soban-ahmad-malik)
 - **GitHub**: [@Schwifty101](https://github.com/Schwifty101)
 
 ---
