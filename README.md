@@ -6,14 +6,14 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 
 - **Full-Stack Development**: Building seamless and dynamic web applications using the MERN stack. 
 - **Artificial Intelligence & Machine Learning**: Exploring cutting-edge AI solutions and working towards a future in automation and intelligent systems.
-- **Data Structures & Algorithms**: Visualizing and solving complex problems through efficient code.
+- **Data Structures & Algorithms**: Visualising and solving complex problems through efficient code.
 - **Project Management**: Leading and organising tech projects with a strategic mindset.
 
 ## 🌱 Currently Learning
 
 - **Advanced React Development**: Building scalable applications using advanced state management tools like Redux and Context API, while optimising performance with React Server Components.  
-- **Backend Optimisation**: Enhancing bacBackend Optimisation using Node.js, Express, and advanced database techniques with MongoDB and PostgreSQL.  
--I and Machine Learning*: ExploreTensorFlow and PyTorch to create innovative automation and intelligent systems solutions.  
+- **Backend Optimisation**: Enhancing backend using Node.js, Express, and advanced database techniques with Mongodb and Postgresql.  
+- **Machine Learning**: Explore TensorFlow and PyTorch to create innovative automation and intelligent systems solutions.  
 - **Cloud and DevOps**: Implementing CI/CD pipelines, Docker containerisation, and deploying applications on AWS and Vercel for streamlined workflows.  
 
 
@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
   A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
 
 - **[WeatherApp with GeminiAPI](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  
-  A weather application leveraging GeminiAPI for real-time weather updates. Optimised for accuracy and performance with an intuitive UI.
+  A weather application leveraging Gemini API for real-time weather updates. Optimised for accuracy and performance with an intuitive UI.
 
 - **[YelpCamp](https://github.com/Schwifty101/YelpCamp)**  
   A campground management application featuring user authentication, review functionality, and dynamic data storage. Developed with JavaScript to streamline user interaction.
