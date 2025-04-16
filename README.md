@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Soban Ahmad (@Schwifty101)
+# 👋 Hi, I’m Soban Ahmad
 
-Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning into innovative ideas. I'm into impactful realities. My journey in technology spans foundational technology and has taken me from development and beyond.
+Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning innovative ideas into. I'm into impactful realities. My journey in technology spans foundational technology and has taken me from development and beyond.
 
 ## 👀 Interests
 
