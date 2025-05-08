@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 ## 💻 Projects & Contributions
 
 ### **Pinned Projects**
-- **[Traffic Sign Classification with CNN]([https://github.com/Schwifty101/TrafficSignClassificationCNN])**  
+- **[Traffic Sign Classification with CNN](https://github.com/Schwifty101/TrafficSignClassificationCNN)**  
   A detailed project of a Convolutional Neural Network model achieving 99.33% accuracy on traffic sign classification. Features preprocessing with histogram equalisation, extensive data augmentation techniques, and a 4-layer CNN architecture with multi-scale features, surpassing human-level performance on the German Traffic Sign Dataset.
 
 - **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  
