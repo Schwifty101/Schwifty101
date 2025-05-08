@@ -20,6 +20,9 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 ## 💻 Projects & Contributions
 
 ### **Pinned Projects**
+- **[TrafficSignClassificationCNN]([https://github.com/Schwifty101/TrafficSignClassificationCNN])**  
+  A detailed project of a Convolutional Neural Network model achieving 99.33% accuracy on traffic sign classification. Features preprocessing with histogram equalisation, extensive data augmentation techniques, and a 4-layer CNN architecture with multi-scale features, surpassing human-level performance on the German Traffic Sign Dataset.
+
 - **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  
   A scalable admin dashboard designed for managing e-commerce platforms. Built with modern JavaScript for seamless user experience and dynamic functionality.
 
@@ -27,10 +30,7 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
   A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
 
 - **[WeatherApp with GeminiAPI](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  
-  A weather application leveraging Gemini API for real-time weather updates. Optimised for accuracy and performance with an intuitive UI.
-
-- **[YelpCamp](https://github.com/Schwifty101/YelpCamp)**  
-  A campground management application featuring user authentication, review functionality, and dynamic data storage. Developed with JavaScript to streamline user interaction.
+  A weather application leveraging the Gemini API for real-time weather updates. Optimised for accuracy and performance with an intuitive UI.
 
 ## 🏆 Achievements
 
