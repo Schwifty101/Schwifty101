@@ -20,22 +20,15 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 ## 💻 Projects & Contributions
 
 ### **Pinned Projects**
-- **[Traffic Sign Classification with CNN](https://github.com/Schwifty101/TrafficSignClassificationCNN)**  
-  A detailed project of a Convolutional Neural Network model achieving 99.33% accuracy on traffic sign classification. Features preprocessing with histogram equalisation, extensive data
-  augmentation techniques, and a 4-layer CNN architecture with multi-scale features, surpassing human-level performance on the German Traffic Sign Dataset.
+- **[Traffic Sign Classification with CNN](https://github.com/Schwifty101/TrafficSignClassificationCNN)**  A detailed project of a Convolutional Neural Network model achieving 99.33% accuracy on traffic sign classification. Features preprocessing with histogram equalisation, extensive data augmentation techniques, and a 4-layer CNN architecture with multi-scale features, surpassing human-level performance on the German Traffic Sign Dataset.
 
-- **[Chess Game with Tactical Analysis and Advanced AI](https://github.com/Schwifty101/AI-Chess)**
-  Developed a fully functional chess game in Python with a Tkinter GUI, featuring tactical pattern detection (pins, forks, skewers) and customizable themes across 3 distinct colour schemes.
-  Implemented an advanced AI opponent using minimax with alpha-beta pruning, enhanced by transposition tables, killer moves, and history heuristics, evaluating thousands of positions efficiently.
+- **[Chess Game with Tactical Analysis and Advanced AI](https://github.com/Schwifty101/AI-Chess)**  Developed a fully functional chess game in Python with a Tkinter GUI, featuring tactical pattern detection (pins, forks, skewers) and customizable themes across 3 distinct colour schemes. Implemented an advanced AI opponent using minimax with alpha-beta pruning, enhanced by transposition tables, killer moves, and history heuristics, evaluating thousands of positions efficiently.
 
-- **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  
-  A scalable admin dashboard designed for managing e-commerce platforms and built with modern JavaScript for seamless user experience and dynamic functionality.
+- **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  A scalable admin dashboard designed for managing e-commerce platforms and built with modern JavaScript for seamless user experience and dynamic functionality.
 
-- **[IMDB Clone Backend](https://github.com/Schwifty101/IMDB-clone-Backend)**  
-  A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
+- **[IMDB Clone Backend](https://github.com/Schwifty101/IMDB-clone-Backend)**  A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
 
-- **[WeatherApp with GeminiAPI](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  
-  A weather application leveraging the Gemini API for real-time weather updates with the Gemini Chatbot. Optimised for accuracy and performance with an intuitive UI.
+- **[WeatherApp with the Gemini API](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  A weather application leveraging the Gemini API for real-time weather updates with the Gemini Chatbot. Optimised for accuracy and performance with an intuitive UI.
 
 ## 🏆 Achievements
 
