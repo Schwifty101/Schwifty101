@@ -30,14 +30,6 @@ Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakist
 
 - **[WeatherApp with the Gemini API](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  A weather application leveraging the Gemini API for real-time weather updates with the Gemini Chatbot. Optimised for accuracy and performance with an intuitive UI.
 
-## 🏆 Achievements
-
-- **Achievement: YOLO**  
-  Recognised for innovation and impact in software development.  
-- **Achievement: Pull Shark**  
-  Commended for active collaboration and contribution to open-source projects.  
-- **GitHub Pro Highlights**  
-  Leveraging professional tools and resources to elevate project outcomes.
 
 ## 💞️ Collaboration Goals
 
