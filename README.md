@@ -1,51 +1,60 @@
 # 👋 Hi, I’m Soban Ahmad
 
-Welcome to my GitHub! I’m a Software Engineering student at FAST NUCES, Pakistan, passionate about turning innovative ideas into. I'm into impactful realities. My journey in technology spans foundational technology and has taken me from development and beyond.
-
-## 👀 Interests
-
-- **Full-Stack Development**: Building seamless and dynamic web applications using the MERN stack. 
-- **Artificial Intelligence & Machine Learning**: Exploring cutting-edge AI solutions and working towards a future in automation and intelligent systems.
-- **Data Structures & Algorithms**: Visualising and solving complex problems through efficient code.
-- **Project Management**: Leading and organising tech projects with a strategic mindset.
-
-## 🌱 Currently Learning
-
-- **Advanced React Development**: Building scalable applications using advanced state management tools like Redux and Context API, while optimising performance with React Server Components.  
-- **Backend Optimisation**: Enhancing backend using Node.js, Express, and advanced database techniques with Mongodb and Postgresql.  
-- **Machine Learning**: Explore TensorFlow and PyTorch to create innovative automation and intelligent systems solutions.  
-- **Cloud and DevOps**: Implementing CI/CD pipelines, Docker containerisation, and deploying applications on AWS and Vercel for streamlined workflows.  
-
-
-## 💻 Projects & Contributions
-
-### **Pinned Projects**
-- **[Traffic Sign Classification with CNN](https://github.com/Schwifty101/TrafficSignClassificationCNN)**  A detailed project of a Convolutional Neural Network model achieving 99.33% accuracy on traffic sign classification. Features preprocessing with histogram equalisation, extensive data augmentation techniques, and a 4-layer CNN architecture with multi-scale features, surpassing human-level performance on the German Traffic Sign Dataset.
-
-- **[Chess Game with Tactical Analysis and Advanced AI](https://github.com/Schwifty101/AI-Chess)**  Developed a fully functional chess game in Python with a Tkinter GUI, featuring tactical pattern detection (pins, forks, skewers) and customizable themes across 3 distinct colour schemes. Implemented an advanced AI opponent using minimax with alpha-beta pruning, enhanced by transposition tables, killer moves, and history heuristics, evaluating thousands of positions efficiently.
-
-- **[MultiCommerce Admin Dashboard](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard)**  A scalable admin dashboard designed for managing e-commerce platforms and built with modern JavaScript for seamless user experience and dynamic functionality.
-
-- **[IMDB Clone Backend](https://github.com/Schwifty101/IMDB-clone-Backend)**  A feature-rich backend replicating IMDB's data handling capabilities, using robust JavaScript frameworks to manage and deliver movie data.
-
-- **[WeatherApp with the Gemini API](https://github.com/Schwifty101/WeatherApp-GeminiAPI)**  A weather application leveraging the Gemini API for real-time weather updates with the Gemini Chatbot. Optimised for accuracy and performance with an intuitive UI.
-
-
-## 💞️ Collaboration Goals
-
-I’m eager to collaborate on projects that:
-
-- Push the boundaries of **AI engineering** and **automation**.
-- Offer opportunities to apply and enhance **full-stack development** skills.
-- Promote modern **learning solutions** for tech enthusiasts.
-- Foster **innovative startup ideas** like my software house concept, *BlueGile*.
-
-## 📫 How to Reach Me
-
-- **Email**: [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)
-- **LinkedIn**: [Soban Ahmad](https://www.linkedin.com/in/soban-ahmad-malik)
-- **GitHub**: [@Schwifty101](https://github.com/Schwifty101)
+I’m a **Software Engineering student** at [FAST NUCES](https://www.nu.edu.pk/), Pakistan, passionate about transforming innovative ideas into real-world, impactful solutions.  
+My journey spans **full-stack development**, **machine learning**, and **cloud technologies** — with a strong focus on building scalable, intelligent, and user-centric systems.
 
 ---
 
-🌟 "Passionate about crafting unforgettable digital experiences and shaping the future of technology."
+## 👨‍💻 Interests & Focus
+
+- **Full-Stack Development** – Developing dynamic web applications using **MERN**, **NestJS**, and **PostgreSQL**, with a focus on clean architecture and scalability.  
+- **AI & Machine Learning** – Applying deep learning and ML algorithms to solve practical problems. Currently pursuing the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.  
+- **Cloud & DevOps** – Building modern, production-ready systems with **AWS**, **Docker**, and **Kubernetes**.  
+- **Project Leadership** – Leading and architecting projects with a product mindset, integrating AI and automation.
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced ML and DL concepts including CNNs, Transformers, and LLMs with **PyTorch**, **TensorFlow**, and **Keras**.  
+- MLOps and cloud deployment pipelines for ML applications.  
+- Generative AI development using **LangChain** and **Hugging Face**.
+
+---
+
+## 🚀 Featured Projects
+
+- [**Traffic Sign Classification**](https://github.com/Schwifty101/TrafficSignClassificationCNN) – CNN achieving **98.75% accuracy** on the German Traffic Sign dataset.  
+- [**AI Chess Engine**](https://github.com/Schwifty101/AI-Chess) – Minimax with alpha-beta pruning and tactical pattern analysis.  
+- [**IMDB Backend Clone**](https://github.com/Schwifty101/IMDB-clone-Backend) – Scalable REST API with advanced querying.  
+- [**Weather Chatbot**](https://github.com/Schwifty101/WeatherApp-GeminiAPI) – Real-time chatbot powered by Gemini API.  
+- [**Multi-Commerce Admin Dashboard**](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard) – Full-stack e-commerce management platform.
+
+---
+
+## 🏆 Certifications
+
+- **IBM AI Engineering Professional Certificate** – Coursera (in progress)  
+- **Google** – Project Management  
+- **Udemy** – Web Development Bootcamp, Digital Marketing  
+- **LearnOBots** – Robotics & Arduino
+
+---
+
+## 🤝 Collaboration Goals
+
+- Building **AI-powered platforms** and intelligent applications.  
+- Contributing to **open-source** ML and DevOps tools.  
+- Partnering on **full-stack SaaS products** and innovative startup ideas like *BlueGile*.
+
+---
+
+## 📫 Reach Me
+
+- 📧 [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/soban-ahmad-malik)  
+- 🖥️ [GitHub](https://github.com/Schwifty101)
+
+---
+
+> 🌟 *“Passionate about crafting unforgettable digital experiences and shaping the future of technology.”*
