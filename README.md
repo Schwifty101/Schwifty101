@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Soban Ahmad
 
-I’m a **Software Engineering student** at [FAST NUCES](https://www.nu.edu.pk/), Pakistan, passionate about transforming innovative ideas into real-world, impactful solutions.  
+I’m a **Software Engineering** passionate about transforming innovative ideas into real-world, impactful solutions.  
 My journey spans **full-stack development**, **machine learning**, and **cloud technologies** — with a strong focus on building scalable, intelligent, and user-centric systems.
 
 ---
