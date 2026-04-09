@@ -34,7 +34,7 @@ My journey spans **full-stack development**, **machine learning**, and **cloud t
 
 ## 🏆 Certifications
 
-- **IBM AI Engineering Professional Certificate** – Coursera (in progress)  
+- **IBM AI Engineering Professional Certificate** – Coursera
 - **Google** – Project Management  
 - **Udemy** – Web Development Bootcamp, Digital Marketing  
 - **LearnOBots** – Robotics & Arduino
