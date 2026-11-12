@@ -1,60 +1,53 @@
-# 👋 Hi, I’m Soban Ahmad
+# Hey, I'm Soban Ahmad Malik.
 
-I’m a **Software Engineering** passionate about transforming innovative ideas into real-world, impactful solutions.  
-My journey spans **full-stack development**, **machine learning**, and **cloud technologies** — with a strong focus on building scalable, intelligent, and user-centric systems.
+**AI systems engineer, full-stack builder, and founder of [KodoAI](https://kodoai.xyz).**
 
----
+I turn messy workflows into software people can actually use. That means talking to the people doing the work, designing the system, writing the code, connecting the APIs, and shipping it.
 
-## 👨‍💻 Interests & Focus
+I work across AI agents, voice, full-stack products, and machine learning. I care about the details that make a system dependable: validation, access control, failure handling, and keeping people in charge of decisions that need judgment.
 
-- **Full-Stack Development** – Developing dynamic web applications using **MERN**, **NestJS**, and **PostgreSQL**, with a focus on clean architecture and scalability.  
-- **AI & Machine Learning** – Applying deep learning and ML algorithms to solve practical problems. Currently pursuing the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.  
-- **Cloud & DevOps** – Building modern, production-ready systems with **AWS**, **Docker**, and **Kubernetes**.  
-- **Project Leadership** – Leading and architecting projects with a product mindset, integrating AI and automation.
+[Portfolio](https://sobanahmad.dev) · [KodoAI](https://kodoai.xyz) · [LinkedIn](https://www.linkedin.com/in/soban-ahmad-malik) · [Email](mailto:soban@sobanahmad.dev)
 
----
+## Selected work
 
-## 🧠 Currently Learning
+**Legal operations platform · KodoAI**  
+Built and deployed an intake and operations platform for AR&CO Law Associates, used by **10–15 staff**. It spans **12+ modules and 20+ PostgreSQL tables**, from client intake and booking to documents, WhatsApp, billing, and reporting. The client onboarding flow went from roughly **2 hours to under 3 minutes**. Added exact CNIC lookup for preliminary conflict checks and kept legal decisions with lawyers.  
+`Next.js` `NestJS` `PostgreSQL` `Supabase` `AWS`
 
-- Advanced ML and DL concepts including CNNs, Transformers, and LLMs with **PyTorch**, **TensorFlow**, and **Keras**.  
-- MLOps and cloud deployment pipelines for ML applications.  
-- Generative AI development using **LangChain** and **Hugging Face**.
+**Maya · Voice receptionist**  
+Built a voice agent that handles calls, checks live availability, books appointments, and sends SMS confirmations. Booking is isolated from notification failures.  
+`Twilio` `Vapi` `Deepgram` `Claude` `Cartesia`
 
----
+**AI assessment platform · Team lead**  
+Lead a **four-person team** building a multi-tenant assessment platform. Designed tenant isolation and role-based access, and integrated GPT-4 scoring, code execution, and proctoring.  
+`Next.js` `NestJS` `PostgreSQL` `AWS` `Kubernetes` `Judge0`
 
-## 🚀 Featured Projects
+**Research & ad operations agents · KodoAI**  
+Built a research pipeline with **seven parallel collection tasks**, source-grounded summaries, and PDF briefs that continues when individual sources fail. Also built an ad operations workflow covering research, copy, creative, and campaign assembly, with budget checks and human approval.  
+`Python` `FastAPI` `Celery` `Redis` `Gemini` `Google Ads API`
 
-- [**Traffic Sign Classification**](https://github.com/Schwifty101/TrafficSignClassificationCNN) – CNN achieving **98.75% accuracy** on the German Traffic Sign dataset.  
-- [**AI Chess Engine**](https://github.com/Schwifty101/AI-Chess) – Minimax with alpha-beta pruning and tactical pattern analysis.  
-- [**IMDB Backend Clone**](https://github.com/Schwifty101/IMDB-clone-Backend) – Scalable REST API with advanced querying.  
-- [**Weather Chatbot**](https://github.com/Schwifty101/WeatherApp-GeminiAPI) – Real-time chatbot powered by Gemini API.  
-- [**Multi-Commerce Admin Dashboard**](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard) – Full-stack e-commerce management platform.
+**Investify · AI evaluation**  
+Built an evaluation harness for financial explanations, including data-leakage audits and deterministic checks. Tested **112 corrupted explanations** with zero false positives; documented the remaining detection limitation.  
+`Python` `TreeSHAP` `LLM evaluation`
 
----
+**Delivery management · Systems Limited**  
+Built NestJS microservices and PostgreSQL APIs that reduced latency by **35%**, and worked on a delivery tracker handling **150+ deliveries per day**.
 
-## 🏆 Certifications
+## Explore the code
 
-- **IBM AI Engineering Professional Certificate** – Coursera
-- **Google** – Project Management  
-- **Udemy** – Web Development Bootcamp, Digital Marketing  
-- **LearnOBots** – Robotics & Arduino
+- [**Fathom rebuild**](https://github.com/Schwifty101/fathomAI) — A meeting-notes product rebuild with synced transcripts, summaries, search, clips, and Google Calendar integration. Recording and media are simulated.
+- [**Traffic sign classification**](https://github.com/Schwifty101/TrafficSignClassificationCNN) — A 43-class CNN achieving **98.75% accuracy**, trained with TensorFlow/Keras and OpenCV augmentation.
+- [**Chess AI**](https://github.com/Schwifty101/AI-Chess) — Minimax, alpha-beta pruning, and a Tkinter interface with tactical analysis.
+- [**Multi-commerce dashboard**](https://github.com/Schwifty101/MultiCommerce-Admin-Dashboard) — A full-stack commerce dashboard for authentication and order management.
+- [**Weather chatbot**](https://github.com/Schwifty101/WeatherApp-GeminiAPI) — A chatbot connecting Gemini with weather data.
 
----
+Some client and independent work is private; the projects above include public repositories.
 
-## 🤝 Collaboration Goals
+## Toolbox
 
-- Building **AI-powered platforms** and intelligent applications.  
-- Contributing to **open-source** ML and DevOps tools.  
-- Partnering on **full-stack SaaS products** and innovative startup ideas like *BlueGile*.
+**Languages:** TypeScript, Python, JavaScript, SQL  
+**Product & backend:** React, Next.js, Node.js, NestJS, FastAPI, REST APIs, WebSockets  
+**AI & data:** OpenAI, Claude, Gemini, RAG, vector search, LLM evaluation, TensorFlow, PostgreSQL, Redis  
+**Infrastructure:** AWS, Docker, Kubernetes, CI/CD, Linux
 
----
-
-## 📫 Reach Me
-
-- 📧 [sobanahmad2003@gmail.com](mailto:sobanahmad2003@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/soban-ahmad-malik)  
-- 🖥️ [GitHub](https://github.com/Schwifty101)
-
----
-
-> 🌟 *“Passionate about crafting unforgettable digital experiences and shaping the future of technology.”*
+Based in Pakistan. Building for teams everywhere.
