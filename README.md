@@ -2,10 +2,6 @@
 
 **AI systems engineer, full-stack builder, and founder of [KodoAI](https://kodoai.xyz).**
 
-I turn messy workflows into software people can actually use. That means talking to the people doing the work, designing the system, writing the code, connecting the APIs, and shipping it.
-
-I work across AI agents, voice, full-stack products, and machine learning. I care about the details that make a system dependable: validation, access control, failure handling, and keeping people in charge of decisions that need judgment.
-
 [Portfolio](https://sobanahmad.dev) · [KodoAI](https://kodoai.xyz) · [LinkedIn](https://www.linkedin.com/in/soban-ahmad-malik) · [Email](mailto:soban@sobanahmad.dev)
 
 ## Selected work
