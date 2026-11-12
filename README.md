@@ -6,6 +6,9 @@
 
 ## Selected work
 
+**[Entropable](https://app.entropable.com/) · In development**  
+Building a trading platform for retail traders, bringing visual strategy building, machine-learning market signals, backtesting, and portfolio risk tools into one workflow. [Explore the product](https://www.entropable.com/).
+
 **Legal operations platform · KodoAI**  
 Built and deployed an intake and operations platform for AR&CO Law Associates, used by **10–15 staff**. It spans **12+ modules and 20+ PostgreSQL tables**, from client intake and booking to documents, WhatsApp, billing, and reporting. The client onboarding flow went from roughly **2 hours to under 3 minutes**. Added exact CNIC lookup for preliminary conflict checks and kept legal decisions with lawyers.  
 `Next.js` `NestJS` `PostgreSQL` `Supabase` `AWS`
