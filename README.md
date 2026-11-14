@@ -42,6 +42,20 @@ Built NestJS microservices and PostgreSQL APIs that reduced latency by **35%**, 
 
 Some client and independent work is private; the projects above include public repositories.
 
+## GitHub stats
+
+<div align="center">
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schwifty101&theme=github_dark)
+
+![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schwifty101&theme=github_dark)
+![Most committed languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schwifty101&theme=github_dark)
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schwifty101&theme=github_dark)
+![Commits by time of day, Pakistan time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schwifty101&theme=github_dark&utcOffset=5)
+
+</div>
+
 ## Toolbox
 
 **Languages:** TypeScript, Python, JavaScript, SQL  
